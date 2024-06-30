@@ -1,5 +1,7 @@
 # Myntra-Clone: HTML & CSS
 
+Hi,
+<br>
 This project is a mock-up of an e-commerce website similar to Myntra,
 designed and developed using HTML and CSS. The website aims to simulate 
 the look and feel of Myntra's user interface, showcasing various fashion 
