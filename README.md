@@ -1,6 +1,6 @@
 # Myntra-Clone: HTML & CSS
 <br>
-Project:- [http://127.0.0.1:5500/Myntra%20Clone](https://gouravsinghdosad.github.io/Myntra-Clone-Static-WebPage/)
+Project:- https://gouravsinghdosad.github.io/Myntra-Clone-Static-WebPage/
 <br>
 Hi,
 <br>
