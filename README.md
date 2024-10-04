@@ -1,28 +1,10 @@
-# Myntra-Clone: HTML & CSS
+![image](https://github.com/user-attachments/assets/68a26872-981c-43a4-aeb9-e8b38f3c79ab)# Myntra-Clone: HTML & CSS
 <br>
-Project:- https://gouravsinghdosad.github.io/Myntra-Clone-Static-WebPage/
+Project:
 <br>
 Hi,
 <br>
-This project is a mock-up of an e-commerce website similar to Myntra,
-designed and developed using HTML and CSS. The website aims to simulate 
-the look and feel of Myntra's user interface, showcasing various fashion 
-products and providing a seamless shopping experience.
-
-Features:
-
-Homepage: A visually appealing landing page displaying featured products, promotions, and navigation links.
-
-Product Listings: Categories such as clothing, footwear, accessories, etc., with detailed product listings including images, 
-descriptions, prices, and ratings.
-
-Product Details: Individual product pages with larger images, detailed descriptions, size options, and customer reviews.
-
-Responsive Design: Ensured that the website is responsive and works well on various devices and screen sizes.
-
-CSS Styling: Used CSS for layout design, color schemes, typography, and interactive elements like hover effects and buttons.
-
-Technologies Used:
+![image](https://github.com/user-attachments/assets/83a0d579-ac64-4e63-9d64-6770e2923ed1)
 
 HTML: Used for structuring the content and layout of the web pages.
 
